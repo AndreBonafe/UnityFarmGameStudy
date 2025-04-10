@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa183415d505da6f1968763b06e80359, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 7824224081666904562, guid: 491b9146406b23d5e80ad9d0ccedfcc5, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: 
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Falai mano, bele?
+      english: Sup' bro, good?
+      spanish: "Hola hermanito \xBFbien?"
+  - actorName: 
+    profile: {fileID: 0}
+    sentence:
+      portuguese: Tu e o mais brabo!
+      english: You are the most brave!
+      spanish: "\xA1Eres el m\xE1s valiente!"
